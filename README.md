@@ -2,6 +2,8 @@
 
 ### Estou estudando para me tornar um full stack developer. Também estudo UX Design e Data Analise pelo Google.
 
+<br>
+
 ![Montenegro, leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=montenegroleticia&show_icons=true&theme=radical)
 
 ## Onde você pode me encontrar 📲
