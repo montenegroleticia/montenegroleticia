@@ -4,7 +4,7 @@
 
 <br>
 
-![Montenegro, leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=montenegroleticia&show_icons=true&theme=radical)
+![Montenegro, leticia GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montenegroleticia&theme=tokyonight&show_icons=true)
 
 ## Onde você pode me encontrar 📲
 
@@ -21,7 +21,7 @@
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montenegroleticia&layout=compact)](https://github.com/montenegroleticia/github-readme-stats)
+[![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montenegroleticia&layout=compact)](https://github.com/anuraghazra/github-readme-stats))](https://github.com/montenegroleticia/github-readme-stats)
 
 ## 
 
