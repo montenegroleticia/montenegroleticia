@@ -47,8 +47,6 @@
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
-<h2 align="center"> Languages 💬 </h2>
-
 
 <!--
 **montenegroleticia/montenegroleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
