@@ -1,19 +1,6 @@
 <h1 align="center"> Hi there, I am Letícia Montenegro 👋 </h1>
 
-<h2 align="center">I have a degree in architecture and urbanism, but found my passion in tech. I am a full stack developer in training by Driven Education. Also, I am a data analyst by Google at Coursera.</h2>
-
-<br>
-
-<div align="center" style="display: flex; justify-content:space-between; align-items:center;">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montenegroleticia&theme=tokyonight&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montenegroleticia&layout=compact)](https://github.com/montenegroleticia/github-readme-stats)
-
-
-</div>
-
-<br>
+<h2>I have a degree in architecture and urbanism, but found my passion in tech. I am a full stack developer in training by Driven Education. Also, I am a data analyst by Google at Coursera.</h2>
 
 <h2 align="center"> Where can you find me 📲 </h2>
 
@@ -26,8 +13,18 @@
 
 <br>
 
-<h2 align="center"> My hard skills 🔧 <h2>
+<div style="display: flex; justify-content:space-between; align-items:center;">
 
+![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=montenegroleticia&theme=tokyonight&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montenegroleticia&layout=compact)](https://github.com/montenegroleticia/github-readme-stats)
+
+</div>
+
+<br>
+
+<h2> My hard skills 🔧 <h2>
+    
 <div align ="center">
     <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align = "center" alt = "css3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,7 +38,7 @@
 
 <br>
 
-<h2 align="center"> Toys 🛠️​ <h2>
+<h2> Toys 🛠️​ <h2>
 
 <div align="center">
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
