@@ -1,30 +1,11 @@
 <h1 align="center"> Hi there, I am Letícia Montenegro 👋 </h1>
-
 <h2>I have a degree in architecture and urbanism, but found my passion in tech. I am a full stack developer in training by Driven Education. Also, I am a data analyst by Google at Coursera.</h2>
-
 <h2 align="center"> Where can you find me 📲 </h2>
-
 <div align="center">
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-montenegro-214b6b226/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCFSxDsZBnjjLNdLCrfRlFDPgMkCmsSPZjfWWjpmfNhFkQzMJxNFMvGQDvgHSLMjfHfKMg)
-
 </div>
-
-<br>
-
-<div style="display: flex; justify-content:space-between; align-items:center;">
-
-![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=montenegroleticia&theme=tokyonight&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montenegroleticia&layout=compact)](https://github.com/montenegroleticia/github-readme-stats)
-
-</div>
-
-<br>
-
 <h2> My hard skills 🔧 <h2>
-    
 <div align ="center">
     <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align = "center" alt = "css3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -35,11 +16,7 @@
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-
-<br>
-
 <h2> Toys 🛠️​ <h2>
-
 <div align="center">
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -52,7 +29,16 @@
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
-
+<details>
+<div style="display: flex; justify-content:space-between; align-items:center;">
+<div align="left">
+![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=montenegroleticia&theme=tokyonight&show_icons=true)
+</div>
+<div align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montenegroleticia&layout=compact)](https://github.com/montenegroleticia/github-readme-stats)
+</div>
+</div>
+</details>
 <!--
 **montenegroleticia/montenegroleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
