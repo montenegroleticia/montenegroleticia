@@ -4,7 +4,7 @@
 
 <h2 align="center"> Where can you find me 📲 </h2>
 
-<div align="center">
+<div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-montenegro-214b6b226/)
     
@@ -23,8 +23,6 @@
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-    
-    
 <h2> Toys 🛠️​ <h2>
 <div align="center">
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -37,6 +35,8 @@
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align = "center" alt = "sql" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
+
+    </br>
 
 <details>
 <div style="display: flex; justify-content:space-between; align-items:center;">
