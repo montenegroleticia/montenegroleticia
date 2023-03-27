@@ -61,6 +61,14 @@ I have a degree in architecture and urbanism, but found my passion in tech. I am
     <img align = "center" alt = "Windows" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
+</br>
+
+<div  align = "center" style ="display: none;">
+<a href="https://github.com/montenegroleticia">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=montenegroleticia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montenegroleticia&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <h3 align="end"> Thanks for checking out my profile! </h3>
 
 [linkedin]: https://www.linkedin.com/in/let%C3%ADcia-montenegro-214b6b226/
