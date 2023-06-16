@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there, I am Letícia Montenegro</h3>
 
-I have a degree in architecture and urbanism, but found my passion in tech. I am a brazilian full stack developer in training by Driven Education. Also, I am a data analyst by Google at Coursera. You can find me in my social media, feel free to contact me.
+I have a degree in architecture and urbanism, but found my passion in tech. I am a brazilian full stack developer by Driven Education. Also, I am a data analyst by Google at Coursera. You can find me in my social media, feel free to contact me.
 
 [<img width="90px" align = "center" alt = "linkedin" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img width="70px" align = "center" alt = "gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
