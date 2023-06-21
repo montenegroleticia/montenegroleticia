@@ -12,6 +12,7 @@ I have a degree in architecture and urbanism, but found my passion in tech. I am
     <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align = "center" alt = "css3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align = "center" alt = "javascript" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align = "center" alt = "typescript" src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align = "center" alt = "markdown" src = "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
     <img align = "center" alt = "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align = "center" alt = "R" src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -20,6 +21,7 @@ I have a degree in architecture and urbanism, but found my passion in tech. I am
 #### Frameworks and Libraries
 <div>
     <img align = "center" alt = "React" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "/>
+    <img align = "center" alt = "React-router" src = "https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
     <img align = "center" alt = "styled" src = "https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img align = "center" alt = "Node.js" src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white "/>
     <img align = "center" alt = "Express.js" src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -48,6 +50,7 @@ I have a degree in architecture and urbanism, but found my passion in tech. I am
     <img align = "center" alt = "Git" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img align = "center" alt = "GitHub" src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img align = "center" alt = "NPM" src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+    <img align = "center" alt = "Prettier" src = "https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)" />
 </div>    
 
 #### IDE
@@ -75,3 +78,11 @@ I have a degree in architecture and urbanism, but found my passion in tech. I am
 
 [linkedin]: https://www.linkedin.com/in/let%C3%ADcia-montenegro-214b6b226/
 [gmail]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCFSxDsZBnjjLNdLCrfRlFDPgMkCmsSPZjfWWjpmfNhFkQzMJxNFMvGQDvgHSLMjfHfKMg
+
+<!-- https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white -->
+<!-- https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white -->
+<!-- https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white  -->
+<!-- https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e -->
+<!-- https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white -->
+<!-- https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white -->
+<!-- https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white -->
