@@ -5,7 +5,7 @@ I have a degree in architecture and urbanism, but found my passion in tech. I am
 [<img width="90px" align = "center" alt = "linkedin" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img width="70px" align = "center" alt = "gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
-### Hard Skills
+<details open> <summary> <h3> Hard Skills </h3> </summary>
 
 #### Languagues
 <div>
@@ -65,14 +65,15 @@ I have a degree in architecture and urbanism, but found my passion in tech. I am
     <img align = "center" alt = "Ubuntu" src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img align = "center" alt = "Windows" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
+</details>
 
-</br>
-
+<details open> <summary> <h3> GitHub Stars </h3> </summary>
 <div  align = "center" style ="display: none;">
 <a href="https://github.com/montenegroleticia">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=montenegroleticia&show_icons=true&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montenegroleticia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+</details>
 
 <h3 align="end"> Thanks for checking out my profile! </h3>
 
