@@ -15,8 +15,14 @@ I'm currently studying Django.
 
 You can find me in my social media, feel free to contact me.
 
-[<img width="90px" align = "center" alt = "linkedin" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img width="70px" align = "center" alt = "gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
+<a href="https://www.linkedin.com/in/let%C3%ADcia-montenegro-214b6b226/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90px" align="center" />
+</a>
+
+<a href="mailto:montenegro.letiicia@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="73px" align="center" />
+</a>
+
 
 <details open> <summary> <h3> Hard Skills </h3> </summary>
 
@@ -63,6 +69,7 @@ You can find me in my social media, feel free to contact me.
 #### Hosting
 <div>
     <img align = "center" alt = "Vercel" src = "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img align = "center" alt = "Render" src = "https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
 </div>
 
 #### Design
@@ -102,8 +109,5 @@ You can find me in my social media, feel free to contact me.
 </details>
 
 <h3 align="end"> Thanks for checking out my profile! </h3>
-
-[linkedin]: https://www.linkedin.com/in/let%C3%ADcia-montenegro-214b6b226/
-[gmail]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCFSxDsZBnjjLNdLCrfRlFDPgMkCmsSPZjfWWjpmfNhFkQzMJxNFMvGQDvgHSLMjfHfKMg
 
 <!-- https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white -->
