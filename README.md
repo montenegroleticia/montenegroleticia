@@ -4,10 +4,10 @@ I have a degree in architecture and urbanism, but found my passion in tech. I am
 
 I started my programming journey at the age of 16 learning Python (on paper haha) in Computer Science at UEPB, unfortunately I was sidetracked, but I never stopped being close to technology, as my interest never disappeared even through other paths. I fell in love with web programming and studied it on my own, I already knew a base of different languages, so I joined Driven to gain experience in the world of development and today I can say that I am a Full Stack developer.
 
-Curiosites:
-I'm Luna's tutor 🐈‍⬛
-I practice Muay Thai 🥊
-I take my chances on my guitar 🎸
+Curiosities:
+- I'm Luna's tutor 🐈‍⬛
+- I practice Muay Thai 🥊
+- I take my chances on my guitar and piano 🎸🎹
 
 I'm currently studying Django.
 
