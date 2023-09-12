@@ -9,9 +9,10 @@ Curiosities:
 - I practice Muay Thai 🥊
 - I take my chances on my guitar and piano 🎸🎹
 
-I'm currently studying Django.
+I'm currently studying:
 
 <img align = "center" alt = "django" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+<img align = "center" alt = "Docker" src = "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white " />
 
 You can find me in my social media, feel free to contact me.
 
@@ -47,7 +48,7 @@ You can find me in my social media, feel free to contact me.
     <img align = "center" alt = "React" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "/>
     <img align = "center" alt = "Vue" src = "https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
     <img align = "center" alt = "styled" src = "https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-    <img align = "center" alt = "Docker" src = "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white " />
+    <img align = "center" alt = "Bootstrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
 #### Database
