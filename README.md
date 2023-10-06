@@ -11,7 +11,6 @@ Curiosities:
 
 I'm currently studying:
 
-<img align = "center" alt = "django" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <img align = "center" alt = "Docker" src = "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white " />
 
 You can find me in my social media, feel free to contact me.
@@ -29,9 +28,9 @@ You can find me in my social media, feel free to contact me.
 
 #### Programming Languagues and Languages
 <div>
+    <img align = "center" alt = "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align = "center" alt = "javascript" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align = "center" alt = "typescript" src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align = "center" alt = "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align = "center" alt = "C" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align = "center" alt = "css3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -42,6 +41,7 @@ You can find me in my social media, feel free to contact me.
     
 #### Frameworks and Libraries
 <div>
+    <img align = "center" alt = "django" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     <img align = "center" alt = "Node.js" src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white "/>
     <img align = "center" alt = "Express.js" src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
     <img align = "center" alt = "Nest" src = "https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
