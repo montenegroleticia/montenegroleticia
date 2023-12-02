@@ -53,6 +53,7 @@ You can find me in my social media, feel free to contact me.
     <img align = "center" alt = "styled" src = "https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img align = "center" alt = "Vite" src = "https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
     <img align = "center" alt = "Bootstrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img align = "center" alt = "JQuery" src = "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
 
 #### Database
