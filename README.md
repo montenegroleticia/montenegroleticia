@@ -2,7 +2,7 @@
 
 I am a brazilian Full Stack developer.
 
-I started my programming journey at the age of 16 learning Python in Computer Science at UEPB, I fell in love with web programming and studied it on my own, I already knew a base of different languages, so I joined Driven to have an immersion in the world of development and I became a Full Stack developer, continuing my learning, today I am doing an MBA in software engineering at USP/Esalq.
+I started programming with Python while studying Computer Science at UEPB. My interest in web development motivated me to study independently, and later, I joined Driven for hands-on experience in software development. Today, I work as a Full Stack developer and I'm currently pursuing an MBA in Software Engineering at USP/Esalq.
 
 Curiosities:
 - I'm Luna's tutor 🐈‍⬛
