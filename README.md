@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there, I am Letícia Montenegro</h3>
 
-I am a brazilian Full Stack developer.
+I am a brazilian Software Engineer.
 
 I started programming with Python while studying Computer Science at UEPB. My interest in web development motivated me to study independently, and later, I joined Driven for hands-on experience in software development. Today, I work as a Full Stack developer and I have completed my MBA in Software Engineering at USP/Esalq.
 
